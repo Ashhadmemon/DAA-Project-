@@ -1,6 +1,9 @@
-# CS2009 DAA Project - Part 2 and Part 3 (C++)
+# DAA Project - Part 2, Part 3 and Part 4 (C++)
+# Group Members 
+## Ashhad Pervaiz 24k-2544
+## Waqar Nadeem 24k-2524
 
-## The 3 programs (all use cout / cin and `using namespace std`)
+## The 3 programs
 | Program | What it does |
 |---|---|
 | `generator.cpp` | Part 2: creates the 20 input files (cp01-cp10, im01-im10) and `seeds.txt` |
