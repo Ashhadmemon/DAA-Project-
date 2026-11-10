@@ -1,0 +1,12 @@
+cp01.txt  seed=2026101  n=1000  uniform random real coordinates in [0, 10^6]
+cp02.txt  seed=2026102  n=10000  uniform random real coordinates in [0, 10^6]
+cp03.txt  seed=2026103  n=100000  uniform random real coordinates in [0, 10^6]
+cp04.txt  seed=2026104  n=1000000  uniform random real coordinates in [0, 10^6]
+cp05.txt  seed=2026105  n=1000000  clustered around 10 random centers (spread about 10000)
+cp06.txt  seed=2026106  n=1000000  integer coordinates in [0, 999], many duplicates (closest distance 0)
+cp07.txt  seed=2026107  n=100000  all points on the vertical line x = 500000
+cp08.txt  seed=2026108  n=100000  400 x 250 equally spaced grid, spacing 1000 (many tied closest pairs)
+cp09.txt  seed=2026109  n=1000000  closest pair (distance about 1.03) lies across the middle dividing line x = 500000
+cp10.txt  seed=2026110  n=101  101 random points in [0, 1000], small file for step by step
+im01.txt  seed=2026201  digits=1000 and 1000  two random numbers, same number of digits, no leading zero
+im02.txt  seed=2026202
